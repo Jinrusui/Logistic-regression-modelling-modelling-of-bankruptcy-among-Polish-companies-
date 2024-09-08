@@ -1,0 +1,1 @@
+# Logistic-regression-modelling-of-bankruptcy-among-Polish-companies-
